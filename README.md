@@ -13,7 +13,7 @@ O **Gatou Dessa pra Melhor** é um sistema desktop moderno e intuitivo desenvolv
 
 Substitua o caminho abaixo pela imagem real do seu aplicativo rodando:
 
-<img width="1838" height="974" alt="image" src="https://github.com/user-attachments/assets/eb57c7dc-a9f5-4049-aa31-ebf3c3f133f0" />
+<img width="1917" height="991" alt="image" src="https://github.com/user-attachments/assets/ac635e60-a8e5-4527-9326-3abe2dc75892" />
 
 *Painel de controle com abas para visualização de registros e formulário de cadastro.*
 
