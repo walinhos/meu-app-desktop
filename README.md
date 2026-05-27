@@ -45,7 +45,7 @@ Substitua o caminho abaixo pela imagem real do seu aplicativo rodando:
 Antes de começar, certifique-se de ter o Python instalado em sua máquina e uma instância do PostgreSQL (como no Aiven) configurada com as tabelas correspondentes.
 
 ### 1. Clonar o Repositório
-```bash
+
 git clone [https://github.com/seu-usuario/gatou-dessa-pra-melhor.git](https://github.com/seu-usuario/gatou-dessa-pra-melhor.git)
 cd gatou-dessa-pra-melhor
 #2. Instalar as Dependências
