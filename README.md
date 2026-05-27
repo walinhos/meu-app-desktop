@@ -48,12 +48,12 @@ Antes de começar, certifique-se de ter o Python instalado em sua máquina e uma
 
 git clone [https://github.com/seu-usuario/gatou-dessa-pra-melhor.git](https://github.com/seu-usuario/gatou-dessa-pra-melhor.git)
 cd gatou-dessa-pra-melhor
-#2. Instalar as Dependências
+##2. Instalar as Dependências
 Instale as bibliotecas necessárias utilizando o pip:
 
 Bash
 pip install customtkinter psycopg2-binary
-#3. Configurar o Banco de Dados
+##3. Configurar o Banco de Dados
 No código fonte do arquivo principal, localize os métodos carregar_dados e salvar_dados. Substitua os campos vazios dentro de psycopg2.connect pelas suas credenciais reais do painel Aiven:
 
 Python
@@ -66,7 +66,7 @@ conn = psycopg2.connect(
 )
 ⚠️ Nota de Segurança: Nunca envie suas credenciais reais para repositórios públicos do GitHub! Use variáveis de ambiente em projetos de produção.
 
-#4. Rodar o Aplicativo
+##4. Rodar o Aplicativo
 Bash
 python seu_arquivo.py
 🗄️ Estrutura do Banco de Dados (SQL sugerido)
@@ -88,5 +88,5 @@ CREATE TABLE gatos (
     causa_morte VARCHAR(255),
     lembranca_escolhida VARCHAR(255)
 );
-#✒️ Autor
+##✒️ Autor
 Desenvolvido por walinhos.
